@@ -3,7 +3,7 @@
 
 #### Dataset
 
-This dataset is a Bank Marketing dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+This dataset is a Bank Marketing dataset from the UCI Machine Learning Repository, see it [here](https://raw.githubusercontent.com/minhhuong05/Econometrics_Midterm_Assignment/main/bank-additional-full.csv?token=GHSAT0AAAAAACQXX736WVGZO4J36H7UB7O6ZQWWCBQ)
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
