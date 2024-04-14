@@ -3,9 +3,11 @@
 
 #### Dataset
 
-This dataset is a Bank Marketing dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+This dataset is a Bank Marketing dataset from the UCI Machine Learning Repository, see it [here](https://github.com/minhhuong05/Econometrics_Midterm_Assignment/blob/main/bank-additional-full.csv)
 
-The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
+
+For further information about this dataset, click [here](https://github.com/minhhuong05/Econometrics_Midterm_Assignment/blob/main/bank-additional-names.txt)
 
 #### Column Description:
   - age : Integer Age
@@ -29,3 +31,11 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
   - euribor3m: euribor 3 month rate - daily indicator (numeric)
   - nr.employed: number of employees - quarterly indicator (numeric)
   - y : has the client subscribed a term deposit? (outcome)
+
+### Our Group Members:
+  - Pham Ngoc Nhi
+  - Nguyen Tuan Trong
+  - Tran Truc Quynh
+  - Dang Thi Phuong Thao
+  - Nguyen Minh Huong
+  - Vu Mai Linh
