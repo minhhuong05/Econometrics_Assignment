@@ -1,5 +1,5 @@
 
-## Econometrics - Group Assignment: Bank Term Deposit Prediction
+## Econometrics - Group Work: Bank Term Deposit Prediction
 
 #### Dataset
 
